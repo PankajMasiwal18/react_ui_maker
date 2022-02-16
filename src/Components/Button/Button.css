@@ -1,0 +1,210 @@
+:root {
+  /* text color */
+  --whiteText: white;
+
+  /* button background color */
+
+  /* blue */
+  --blue: #1976d2;
+  --blueHover: #1565c0;
+  --blueClick: #1565c0;
+
+  /* red */
+  --red: #ff2323;
+  --redHover: #e12120;
+  --redClick: #e12120;
+
+  /* orange */
+  --orange: #ffa01b;
+  --orangeHover: #fd7e14;
+  --orangeCLick: #fd7e14;
+
+  /* yellow */
+  --yellow: #ffe135;
+  --yellowHover: #ffc107;
+  --yellowCLick: #ffc107;
+
+  /* green */
+  --green: #34b334;
+  --greenHover: #28a745;
+  --greenCLick: #28a745;
+
+  /* indigo */
+  --indigo: #570682;
+  --indigoHover: #420364;
+  --indigoCLick: #420364;
+
+  /* violet */
+  --violet: #7f3e98;
+  --violetHover: #602080;
+  --violetCLick: #602080;
+
+  /* gray */
+  --gray: #aaaaaa;
+  --grayHover: #6c757d;
+  --grayCLick: #6c757d;
+
+  /* black */
+  --black: #363636;
+  --blackHover: #000000;
+  --blackCLick: #000000;
+}
+
+.button {
+  border: none;
+  border-radius: 5px;
+}
+
+/* bgColor */
+
+/* Blue bacground */
+.blue {
+  background-color: var(--blue);
+  color: var(--whiteText);
+}
+
+.blue:hover {
+  background-color: var(--blueHover);
+  color: var(--whiteText);
+}
+
+.blue:active {
+  background-color: var(--blueClick);
+  color: var(--whiteText);
+}
+
+/* Red background */
+
+.red {
+  background-color: var(--red);
+  color: var(--whiteText);
+}
+
+.red:hover {
+  background-color: var(--redHover);
+  color: var(--whiteText);
+}
+
+.red:active {
+  background-color: var(--redClick);
+  color: var(--whiteText);
+}
+
+/* Orange background */
+
+.orange {
+  background-color: var(--orange);
+  color: var(--whiteText);
+}
+
+.orange:hover {
+  background-color: var(--orangeHover);
+  color: var(--whiteText);
+}
+
+.orange:active {
+  background-color: var(--orangeCLick);
+  color: var(--whiteText);
+}
+
+/* Yellow background */
+
+.yellow {
+  background-color: var(--yellow);
+  color: var(--whiteText);
+}
+
+.yellow:hover {
+  background-color: var(--yellowHover);
+  color: var(--whiteText);
+}
+
+.yellow:active {
+  background-color: var(--yellowCLick);
+  color: var(--whiteText);
+}
+
+/* Green background */
+
+.green {
+  background-color: var(--green);
+  color: var(--whiteText);
+}
+
+.green:hover {
+  background-color: var(--greenHover);
+  color: var(--whiteText);
+}
+
+.green:active {
+  background-color: var(--greenCLick);
+  color: var(--whiteText);
+}
+
+/* Indigo background */
+
+.indigo {
+  background-color: var(--indigo);
+  color: var(--whiteText);
+}
+
+.indigo:hover {
+  background-color: var(--indigoHover);
+  color: var(--whiteText);
+}
+
+.indigo:active {
+  background-color: var(--indigoCLick);
+  color: var(--whiteText);
+}
+
+/* Violet background */
+
+.violet {
+  background-color: var(--violet);
+  color: var(--whiteText);
+}
+
+.violet:hover {
+  background-color: var(--violetHover);
+  color: var(--whiteText);
+}
+
+.violet:active {
+  background-color: var(--violetCLick);
+  color: var(--whiteText);
+}
+
+/* Gray background */
+
+.gray {
+  background-color: var(--gray);
+  color: var(--whiteText);
+}
+
+.gray:hover {
+  background-color: var(--grayHover);
+  color: var(--whiteText);
+}
+
+.gray:active {
+  background-color: var(--grayCLick);
+  color: var(--whiteText);
+}
+
+/* Black background */
+
+.black {
+  background-color: var(--black);
+  color: var(--whiteText);
+}
+
+.black:hover {
+  background-color: var(--blackHover);
+  color: var(--whiteText);
+}
+
+.black:active {
+  background-color: var(--blackCLick);
+  color: var(--whiteText);
+}
