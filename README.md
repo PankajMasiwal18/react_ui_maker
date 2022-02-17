@@ -8,6 +8,6 @@ Click Me
 </Button>
 ```
 
-| Props   | Value                                                       |
-| ------- | ----------------------------------------------------------- |
-| bgColor | blue , red, orange, yellow , green,indigo,violet,gray,black |
+| Props   | Value                                                                |
+| ------- | -------------------------------------------------------------------- |
+| bgColor | blue , red , orange , yellow , green ,indigo , violet , gray , black |
