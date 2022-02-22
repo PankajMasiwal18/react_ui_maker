@@ -62,3 +62,27 @@ Black.args = {
   bgColor: "black",
   children: "Black",
 };
+
+export const Small = Template.bind({});
+Small.args = {
+  size: "small",
+  children: "Small",
+};
+
+export const Medium = Template.bind({});
+Medium.args = {
+  size: "medium",
+  children: "Medium",
+};
+
+export const Large = Template.bind({});
+Large.args = {
+  size: "large",
+  children: "Large",
+};
+
+export const Fluid = Template.bind({});
+Fluid.args = {
+  fluid: "fluid",
+  children: "Fluid",
+};
