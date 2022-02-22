@@ -208,3 +208,21 @@
   background-color: var(--blackCLick);
   color: var(--whiteText);
 }
+
+/* size */
+
+.small {
+  padding: 4px 10px;
+}
+
+.medium {
+  padding: 7px 16px;
+}
+
+.large {
+  padding: 10px 24px;
+}
+
+.fluid {
+  width: 100%;
+}

@@ -1,6 +1,6 @@
 {
   "name": "react_ui_maker",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PankajMasiwal18/React-UI.git"
+    "url": "git+https://github.com/PankajMasiwal18/react_ui_maker.git"
   },
   "author": "Pankaj Masiwal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PankajMasiwal18/React-UI/issues"
+    "url": "https://github.com/PankajMasiwal18/react_ui_maker/issues"
   },
-  "homepage": "https://github.com/PankajMasiwal18/React-UI#readme",
+  "homepage": "https://github.com/PankajMasiwal18/react_ui_maker#readme",
   "devDependencies": {
     "@babel/core": "^7.17.2",
     "@babel/preset-react": "^7.16.7",
